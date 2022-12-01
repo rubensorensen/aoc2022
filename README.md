@@ -1,7 +1,7 @@
 # Advent of Code 2022
 
 ## Note
-I have decided to use aoc2022 as an opportunity to try Rust. The goal is not optimal solutions, nor is it to use proper rust code. Instead I use it specifically to experiment with the rust language.
+I have decided to use aoc2022 as an opportunity to try [Rust](https://www.rust-lang.org/). The goal is not to implement optimal solutions, nor is it to write proper Rust code. Instead I specifically aim to simply experiment with the language.
 
 ## Quick start
 ```console
